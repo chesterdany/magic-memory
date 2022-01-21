@@ -1,6 +1,6 @@
 # Memory Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to game [Memory Game](https://memory-game-dny.netlify.app/).
 
 ## About
 
